@@ -218,7 +218,7 @@ body, html{
 
 div.scrollmenu {
   background-color: #252222;
-  overflow: auto;
+  overflow: hidden;
   white-space: nowrap;
   width: 102%;
   height:max-content;
