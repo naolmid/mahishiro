@@ -221,7 +221,7 @@ div.scrollmenu {
   overflow: auto;
   white-space: nowrap;
   width: 102%;
-  height: 35vh;
+  height:max-content;
   position: absolute;
   transform: translate(-5%, 0%);
 }
@@ -268,14 +268,14 @@ div.scrollmenu a:hover {
   border-radius: 15px;
 }
 .foodprice{
-  transform: translate(0%, -200%);
+  transform: translate(0%, -220%);
   /*background: black;
   color:white;
   border-radius: 10px;
   width;fit-content;*/
 }
 .foodname{
-  transform: translate(0%, -35%);
+  transform: translate(0%, -25%);
 }
 
 
