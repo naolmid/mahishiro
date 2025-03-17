@@ -219,7 +219,6 @@ body, html{
 div.scrollmenu {
   background-color: #252222;
   overflow: hidden;
-  white-space: nowrap;
   width: 102%;
   height:max-content;
   position: absolute;
@@ -249,7 +248,7 @@ div.scrollmenu a:hover {
 .tdinside{
   width:50vw;
   position: inherit;
-  height:37vh;
+  height:max-content;
   margin: none;
   padding: 0px;
   background:white;
