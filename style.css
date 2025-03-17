@@ -203,7 +203,7 @@ table{
 .content {
   padding: 0 18px;
   display: none;
-  height: 30vh;
+  height: 25vh;
   overflow: hidden;
   background:transparent;
   margin-bottom: 0.5vh;
@@ -227,7 +227,7 @@ div.scrollmenu {
   overflow: auto;
   white-space: nowrap;
   width: 102%;
-  height: 35vh;
+  height: 25vh;
   position: absolute;
   transform: translate(-5%, 0%);
 }
