@@ -199,7 +199,7 @@ body, html{
   display: none;
   height: 30vh;
   overflow: hidden;
-  background-color: #000000;
+  background:transparent;
   margin-bottom: 0.5vh;
   transform: translate(-0.7%);
   border-radius: 15px;
@@ -261,7 +261,7 @@ div.scrollmenu a:hover {
 
 .foodimg{
   width:30vw;
-  margin: 0px;
+  margin-top: 2%;
   padding: 0px;
   align-self: center;
   transform: translate(0%,-20%);
@@ -276,7 +276,7 @@ div.scrollmenu a:hover {
 }
 .foodname{
   transform: translate(0%, -35%);
-  margin-top: 10%;
+  margin-top: 7%;
 }
 
 
