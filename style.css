@@ -199,7 +199,7 @@ body, html{
   display: none;
   height: 30vh;
   overflow: hidden;
-  background-color: #000000;
+  background-color: transparent;
   margin-bottom: 0.5vh;
   transform: translate(-0.7%);
   border-radius: 15px;
