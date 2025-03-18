@@ -77,14 +77,14 @@ body, html{
   border: none;
   border-radius: 15px;
   font-size: large;
-  color:rgb(2, 58, 81);
+  color: rgb(55, 57, 58); 
   font-weight: 600;
   background: linear-gradient(rgb(251, 211, 110),rgb(255, 255, 255));
 }
 .p_menu{
   position: relative;
   font-family:DM Sans;
-  color:rgb(2, 58, 81);
+  color: rgb(55, 57, 58); 
   font-weight: bolder;
   letter-spacing: -0.095cap;
   
@@ -113,7 +113,7 @@ body, html{
 
 .amharic{
   font-family:tesfa;
-  font-size:80%;
+  font-size:90%;
   font-weight: 600;
   letter-spacing: 0px;
 }
@@ -124,7 +124,7 @@ body, html{
   height:200vh;
   border-top-left-radius:70px;
   border-top-right-radius:70px;
-  background: rgb(2, 60, 82); 
+  background: rgb(55, 57, 58); 
   position: absolute;
   transform:translate(0.2%,0%);
 }
@@ -169,7 +169,8 @@ body, html{
   font-weight: 600;
   font-size: 120%;
   text-align: center;
-  color: rgb(2, 58, 81);
+  color: rgb(55, 57, 58); 
+
   background: linear-gradient(rgb(251, 211, 110),rgb(255, 255, 255));
 }
 
@@ -208,7 +209,7 @@ body, html{
   background: linear-gradient(rgb(250, 227, 170)50%,rgb(226, 184, 69)); 
   */
   font-size: large;
-  color:rgb(2, 58, 81);
+  color: rgb(55, 57, 58); 
   font-weight: 600;
   width: 99vw;
   font-family: dm sans;
