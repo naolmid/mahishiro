@@ -176,19 +176,19 @@ body, html{
 
 
 .active .collapsible:hover {
-  background:linear-gradient(rgb(18, 145, 128),rgb(5, 60, 104));
+  background:linear-gradient(rgb(112 107 104),rgb(24 25 25));
   margin-bottom: 0.5vh;
 }
 
 .collapsible:focus{
-  background:linear-gradient(rgb(18, 145, 128),rgb(5, 60, 104));
+  background:linear-gradient(rgb(109 93 83),rgb(24 25 25));
   color:bisque;
   transition-duration: 1s;
 
 }
 
 .rowbutton:focus{
-  background:linear-gradient(rgb(18, 145, 128),rgb(5, 60, 104));
+  background:linear-gradient(rgb(112 107 104),rgb(24 25 25));
   color:bisque;
   transition-duration: 1s;
 }
@@ -253,7 +253,7 @@ div.scrollmenu a:hover {
   height:37vh;
   margin: none;
   padding: 0px;
-  background:white;
+  background:#fbf7f4;
   border:none;
   border-radius:10px;
   transform: translate(-1%,-1.5vh);
